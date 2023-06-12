@@ -1,0 +1,7 @@
+a {
+  background: none;
+}
+
+a.active {
+  background: #E8E9FA;
+}
